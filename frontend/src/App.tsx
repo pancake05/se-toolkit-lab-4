@@ -63,7 +63,7 @@ function App() {
     return (
       <form className="token-form" onSubmit={handleConnect}>
         <h1>API Token</h1>
-        <h1>Front</h1>
+        <h1>Bet</h1>
         <p>Enter your API token to connect.</p>
         <input
           type="password"
